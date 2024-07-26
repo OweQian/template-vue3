@@ -1,0 +1,14 @@
+{
+  "name": "@oweqian/template-vue3",
+  "version": "1.0.4",
+  "description": "cli-oweqian vue3 template",
+  "author": "oweqian",
+  "license": "ISC",
+  "files": [
+    "plugins",
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
